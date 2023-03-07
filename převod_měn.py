@@ -55,7 +55,7 @@ window.title("Kalkulačka VESELKA")
 window.minsize(200, 300)
 window.resizable(False, False)
 window.config(bg="#0b00a4")
-window.iconbitmap("BTC.ico")
+
 
 # Convert for better read
 bitcoin = get_bitcoin_value_from_web_to_float()
